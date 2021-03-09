@@ -1,3 +1,7 @@
-Welcome to git github
--
-_
+belajar git
+- create repository
+- clone to local environment gtdocs/www
+- create
+*branch
+*commit
+*pull and push
